@@ -24,6 +24,6 @@ export const profile = {
   whatsapp: "https://wa.me/923222542731",
   linkedin: "https://www.linkedin.com/in/umerhussain77",
   github: "", // Add your GitHub profile URL to show the link.
-  resumePath: "/resume.pdf",
+  resumePath: "/Umer-Hussain-CV",
   photo: "/images/profile.jpg",
 };

@@ -17,7 +17,7 @@ npm run preview    # preview the production build at http://localhost:4173
 
 ```
 public/
-  resume.pdf                     Downloadable resume (replace this file to update it)
+  Umer-Hussain-CV                     Downloadable resume (replace this file to update it)
   images/profile.jpg             Profile photo used in the About section
   case-studies/<project>/        Screenshots for each case study (see section 5)
   _redirects, vercel.json        Routing rules so deep links like /case-studies/... work after deploy
@@ -87,7 +87,7 @@ The site is a single-page app. Configure a rewrite so that every route serves `i
 - [ ] Confirm you have permission to show each client's name and work publicly.
 - [ ] Add the live URL for each project that is public.
 - [ ] Confirm the WhatsApp link and phone number are correct.
-- [ ] Replace `public/resume.pdf` with the latest version if needed.
+- [ ] Replace `public/Umer-Hussain-CV` with the latest version if needed.
 - [ ] Run `npm run build` and check the site on a phone-sized screen.
 
 ## Accessibility and performance notes
