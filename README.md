@@ -96,3 +96,5 @@ The site is a single-page app. Configure a rewrite so that every route serves `i
 - Navigation is keyboard accessible, and the mobile menu closes with the Escape key.
 - The lightbox closes with the Escape key and has a labeled close button.
 - Images load lazily, and missing images fall back to a placeholder.
+=======
+# portfolio
